@@ -1,0 +1,13 @@
+.header-container{
+    width: 100%;
+    height: 100px;
+    background-color: #ee5253;
+    color: white;
+    display: flex;
+}
+
+.header-layout{
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+}
